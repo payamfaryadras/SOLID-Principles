@@ -1,2 +1,2 @@
 # SOLID-Principles
-SOLID Principles in java with examples
+SOLID Principles in Kotlin with examples
